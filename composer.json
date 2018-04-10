@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/support": "5.4.*",
+        "illuminate/support": "5.5.*",
 		"kontoulis/rabbitmq-laravel": "^2.1",
 		"protobuf-php/protobuf-plugin": "^0.1.3",
         "protobuf-php/google-protobuf-proto": "^0.1.3",
