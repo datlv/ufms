@@ -1,6 +1,7 @@
 {
     "name": "datlv/ufms",
     "description": "Ufms for vehicle manager",
+	"homepage": "https://github.com/datlv/ufms",
     "authors": [
         {
             "name": "datlv",
@@ -19,6 +20,5 @@
         "psr-4": {
             "Datlv\\Ufms\\": "src/Datlv/Ufms"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
